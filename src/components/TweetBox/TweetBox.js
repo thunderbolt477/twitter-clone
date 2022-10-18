@@ -1,6 +1,6 @@
 import { Avatar, Button} from "@mui/material";
 import React from "react";
-import db from "./firebase";
+import db from "../firebase";
 import "./TweetBox.css";
 
 const TweetBox = () => {
